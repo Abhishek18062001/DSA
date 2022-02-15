@@ -1,2 +1,2 @@
 # DSA
-Simple application of DFS question
+Simple application of DSA
