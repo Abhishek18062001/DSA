@@ -1,3 +1,3 @@
 # Data-Structure-and-Algo-Source-Codes
-Simple application of DSA question /n
-# Questions from GeeksforGeeks ,InterviewBit,Codechef,Codeforces
+# Questions from GeeksforGeeks,InterviewBit,Codechef,Codeforces
+Simple application of DSA question 
